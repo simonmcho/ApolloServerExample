@@ -15,6 +15,6 @@
 6. Add the `express` framework: `yarn add express`
 7. Add graphQL packages: `yarn add graphql graphql-tools apollo-server-express`
 
-Video reference: `https://www.youtube.com/watch?v=Hf7xSCnbyiI`
+[Video reference](https://www.youtube.com/watch?v=Hf7xSCnbyiI)
 
-Next steps for using GraphQL using Apollo Server: `https://www.youtube.com/watch?v=5evJqX5i1zE`
+[Next steps for using GraphQL using Apollo Server](https://www.youtube.com/watch?v=5evJqX5i1zE)
